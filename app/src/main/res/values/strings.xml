@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">meme_gen</string>
+    <string name="save">SAVE</string>
+    <string name="share">SHARE</string>
+</resources>
